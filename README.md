@@ -97,5 +97,5 @@ This project is intended as a **learning exercise** for practicing:
 - This project is meant purely for educational and practice purposes.
 
 ## 💻 Author
-**Mahmoud** – *Enthusiastic Developer*
+**Mahmoud Gamal** – *Enthusiastic Developer*
 
